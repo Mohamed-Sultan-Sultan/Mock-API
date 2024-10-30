@@ -1,8 +1,8 @@
-#Mock API (Employees)
+# Mock API (Employees)
 
 Mock ApI project using Java, Maven, RestAssured, TestNG, and POM in the project
 
-#Tech Stach:
+# Tech Stach:
 
 Java
 Maven
